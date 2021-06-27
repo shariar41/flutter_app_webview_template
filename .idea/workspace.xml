@@ -15,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -1460,6 +1462,7 @@
       <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1477,7 +1480,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1546,6 +1549,10 @@
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state width="857" height="189" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1624732296689" />
+    <state x="96" y="112" key="IDE.errors.dialog" timestamp="1624773538733">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="96" y="112" key="IDE.errors.dialog/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624773538733" />
     <state x="569" y="274" key="Performance.Activity.Monitor" timestamp="1624727079837">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
@@ -1562,9 +1569,10 @@
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="646" y="323" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.798@0.25.1440.798" timestamp="1624735748851" />
-    <state x="762" y="300" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624732871435">
+    <state x="573" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624773399491">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
+    <state x="573" y="302" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624773399491" />
     <state x="762" y="300" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.798@0.25.1440.798" timestamp="1624732871435" />
   </component>
 </project>
