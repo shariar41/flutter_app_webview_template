@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-saimon/system/flutter_web_view_template/BuildConfig.java
- saimon.system.flutter_web_view_template.BuildConfig
