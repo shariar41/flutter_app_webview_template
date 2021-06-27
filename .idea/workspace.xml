@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da1ef6d1-c2bb-4038-b5e8-0e3b4e604810" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="da1ef6d1-c2bb-4038-b5e8-0e3b4e604810" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624777285664</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git ignore file update 2">
+      <created>1624777557720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624777557720</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,17 +150,18 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="git ignore file added" />
     <MESSAGE value="git ignore file update" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore file update" />
+    <MESSAGE value="git ignore file update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore file update 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="417" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1624775878376">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="417" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624775878376" />
-    <state x="49" y="25" key="CommitChangelistDialog2" timestamp="1624777285513">
+    <state x="49" y="25" key="CommitChangelistDialog2" timestamp="1624777557548">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
-    <state x="49" y="25" key="CommitChangelistDialog2/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624777285513" />
+    <state x="49" y="25" key="CommitChangelistDialog2/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624777557548" />
     <state x="52" y="25" key="CommitChangelistDialog2/0.25.1440.798@0.25.1440.798" timestamp="1624735638363" />
     <state width="938" height="328" key="GridCell.Tab.0.bottom" timestamp="1624777156562">
       <screen x="0" y="25" width="1440" height="798" />
@@ -189,10 +195,10 @@
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="33" y="25" key="SettingsEditor/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624776087126" />
-    <state x="372" y="98" key="Vcs.Push.Dialog.v2" timestamp="1624777297441">
+    <state x="372" y="98" key="Vcs.Push.Dialog.v2" timestamp="1624777571115">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
-    <state x="372" y="98" key="Vcs.Push.Dialog.v2/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624777297441" />
+    <state x="372" y="98" key="Vcs.Push.Dialog.v2/0.25.1440.798/1440.-287.1920.1055@0.25.1440.798" timestamp="1624777571115" />
     <state x="372" y="98" key="Vcs.Push.Dialog.v2/0.25.1440.798@0.25.1440.798" timestamp="1624735771566" />
     <state x="646" y="323" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624735748851">
       <screen x="0" y="25" width="1440" height="798" />
