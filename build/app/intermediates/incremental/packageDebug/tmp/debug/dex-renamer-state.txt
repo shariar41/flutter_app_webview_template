@@ -1,0 +1,4 @@
+#Sat Jun 26 23:56:37 BDT 2021
+base.0=/Users/shariarislam/Desktop/Development/My-projects/restaurant_finder_app_templates_flutter/flutter_web_view_template/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

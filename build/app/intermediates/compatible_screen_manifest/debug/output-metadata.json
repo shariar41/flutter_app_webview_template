@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "saimon.system.flutter_web_view_template",
+  "variantName": "debug",
+  "elements": []
+}
